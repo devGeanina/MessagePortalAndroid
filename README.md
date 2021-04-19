@@ -24,12 +24,12 @@ For an Android device that is dual SIM the interface of the application also all
  
 
 ## Built With
- NanoHTTPD - light-weight HTTP server listening for the incoming requests.
- SQLiteOpenHelper - light-weight database to store the application information.
- Gson - used to parse information.
- Material icons - to set the menu and recycler view icons.
- Butterknife - to bind Android views.
- JUnit & Mockito - test coverage.
+* NanoHTTPD - light-weight HTTP server listening for the incoming requests.
+* SQLiteOpenHelper - light-weight database to store the application information.
+* Gson - used to parse information.
+* Material icons - to set the menu and recycler view icons.
+* Butterknife - to bind Android views.
+* JUnit & Mockito - test coverage.
 
 ## Author
 * **Geanina Chiricuta**
