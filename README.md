@@ -27,4 +27,4 @@ The application allows the user to change the following settings:
 * JUnit & Mockito - test coverage.
 
 ## Author
-* **Geanina Chiricuta**
+* **GeaninaC**
