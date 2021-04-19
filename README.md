@@ -28,3 +28,22 @@ The application allows the user to change the following settings:
 
 ## Author
 * **GeaninaC**
+
+## Screenshots (number details are test only or blurred for security)
+![alt tag](https://user-images.githubusercontent.com/35954631/115249460-46e7d500-a131-11eb-9aea-c8f9bbf10f2d.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249458-46e7d500-a131-11eb-919c-dd7471e12fd0.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249454-464f3e80-a131-11eb-81d0-7328d60563fb.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249453-45b6a800-a131-11eb-9280-8681de142455.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249451-45b6a800-a131-11eb-8708-ea30fb5ff655.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249447-45b6a800-a131-11eb-820d-642dd1c67a7b.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249444-451e1180-a131-11eb-8f3a-2dc151d16133.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249441-44857b00-a131-11eb-9194-1e7c69846e62.jpg)
+
+![alt tag](https://user-images.githubusercontent.com/35954631/115249439-43ece480-a131-11eb-88d4-6cdd977cf3f5.JPG)
