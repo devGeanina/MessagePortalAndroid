@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_settings"
+        android:checked="false"
+        android:title="@string/action_settings"
+        app:materialIcon="settings"
+      />
+    <item
+        android:id="@+id/action_uri_info"
+        android:checked="false"
+        android:title="@string/action_uri_param"
+        app:materialIcon="sign_text"
+        />
+    <item
+        android:id="@+id/action_session_info"
+        android:checked="false"
+        android:title="@string/action_session_info"
+        app:materialIcon="account_network"
+         />
+    <item
+        android:id="@+id/action_info"
+        android:checked="false"
+        android:title="@string/action_info"
+        app:materialIcon="information"
+        />
+</menu>
