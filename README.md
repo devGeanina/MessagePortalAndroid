@@ -1,3 +1,5 @@
+
+
 ## MessagePortal for Android
 SMS Gateway application allowing users to send SMS messages through its server listening on a particular address and port. The Android application is part of a multi-device SMS gateway service that can be used in conjucture with its twin application for desktop (Windows only supported). The twin desktop application allows the user to send the desired SMS through its interface instead of using a browser to make the calls, and allows the user to have more options using it. However, this application can be used standalone as well, by making the calls using a regular browser and the URI parameters mentioned in the application info, such as the authentication key, receiving SMS number and the SMS body.
 
@@ -30,4 +32,5 @@ The application allows the user to change the following settings:
 * **GeaninaC**
 
 
+https://user-images.githubusercontent.com/35954631/115342232-96bab080-a1b2-11eb-8d10-4b730a6a0c60.mp4
 
