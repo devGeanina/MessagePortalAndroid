@@ -32,6 +32,8 @@ The application allows the user to change the following settings:
 * **GeaninaC**
 
 
-https://user-images.githubusercontent.com/35954631/115342327-c23d9b00-a1b2-11eb-99d4-16798ccf4ef8.mp4
+https://user-images.githubusercontent.com/35954631/115345927-29aa1980-a1b8-11eb-8045-82ddb60e1ec9.mp4
+
+
 
 
